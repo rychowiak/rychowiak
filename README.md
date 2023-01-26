@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ricardo S.</h1>
+<h1 align="center">Hi 👋, I'm Ricardo Sepúlveda.</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
 
 <p align="left"><img src="https://user-images.githubusercontent.com/81062286/214919828-8065609c-abc7-4af0-8f6d-261199a0fd00.jpg" alt="cover-img" /> </p>
