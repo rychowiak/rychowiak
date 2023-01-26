@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ricardosepu93@gmail.com**
 
-- 🌱 I’m currently learning **PHP, Laravel, MySQL**
+- 🌱 I’m currently learning **PHP, Laravel, MySQL, Java**
 
 
 <h3 align="left">Connect with me:</h3>
