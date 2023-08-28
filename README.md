@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **PHP, C#, SQL**
 
+-    And doing daily LeetCode problems, my profile: https://leetcode.com/ricardosepu93
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
