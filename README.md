@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **PHP, C#, SQL**
 
--    LeetCode profile: https://leetcode.com/ricardosepu93
+-    My LeetCode profile: https://leetcode.com/ricardosepu93
 
 
 <h3 align="left">Connect with me:</h3>
